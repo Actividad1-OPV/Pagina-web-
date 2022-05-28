@@ -6,7 +6,7 @@
 <h1>Centro Escolar INSA</h1>
 <img src="insa.jpeg" width="200" height="200"/><br>
 <hr>
-<h2>Maltrato animal</h2>
+<h2> El maltrato animal </h2>
 <left>
 <font size="5">
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Materia:</b> Informatica<br>
